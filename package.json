@@ -1,0 +1,26 @@
+{
+  "name": "miko",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fleurescent/miko.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fleurescent/miko/issues"
+  },
+  "homepage": "https://github.com/fleurescent/miko#readme",
+  "dependencies": {
+    "discord.js": "^13.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.1"
+  }
+}
